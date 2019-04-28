@@ -6,4 +6,9 @@ public class Login {
 	{
 		System.out.println("This is Login page");
 	}
+	
+	public void loginWebUser()
+	{
+		System.out.println("This is for login with Web user");
+	}
 }
